@@ -1,0 +1,68 @@
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.AssemblyReference.cache
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CoreCompileInputs.cache
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CopyComplete
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.Migrations.HMSMigration.resources
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.GenerateResource.cache
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.pdb
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.pdb
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.AssemblyReference.cache
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.Migrations.HMSMigration.resources
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.GenerateResource.cache
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CoreCompileInputs.cache
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CopyComplete
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.AssemblyReference.cache
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.Migrations.HMSMigration.resources
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.GenerateResource.cache
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CoreCompileInputs.cache
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CopyComplete
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Data.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\HostelManagment.Models.dll.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.AssemblyReference.cache
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.Migrations.HMSMigration.resources
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.GenerateResource.cache
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CoreCompileInputs.cache
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.csproj.CopyComplete
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.Data\obj\Debug\HostelManagment.Data.pdb
