@@ -1,0 +1,352 @@
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.rsp
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.rsp
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.AppContext.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Console.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Http.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Sockets.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.ValueTuple.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.rsp
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\EntityFramework.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\EntityFramework.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.AssemblyReference.cache
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CoreCompileInputs.cache
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CopyComplete
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.pdb
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll.config
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Cors.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.dll
+D:\Hostel_Managment\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.pdb
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.rsp
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.rsp
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.AppContext.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Collections.Immutable.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Console.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Http.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Sockets.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.ValueTuple.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.rsp
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\EntityFramework.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Cors.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.pdb
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.pdb
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll.config
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\EntityFramework.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.AssemblyReference.cache
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CoreCompileInputs.cache
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CopyComplete
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.dll
+D:\HMSF\HostelManagment.API\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.rsp
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.rsp
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.AppContext.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Console.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Http.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Sockets.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.ValueTuple.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.rsp
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Cors.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.pdb
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll.config
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.AssemblyReference.cache
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CoreCompileInputs.cache
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CopyComplete
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.dll
+D:\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.API.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.exe.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csc.rsp
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.exe.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\csi.rsp
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.AppContext.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Collections.Immutable.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Console.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Http.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Net.Sockets.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.ValueTuple.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.exe.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\vbc.rsp
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\roslyn\VBCSCompiler.exe.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Cors.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Data.dll.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.pdb
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\HostelManagment.Models.dll.config
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\EntityFramework.SqlServer.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.Cors.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Newtonsoft.Json.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Net.Http.Formatting.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\System.Web.Http.WebHost.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.AssemblyReference.cache
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CoreCompileInputs.cache
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.csproj.CopyComplete
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.dll
+D:\SHALU RAWAT\PLACEMENTS\Offers\COGNIZANT\Cognizant Training\Final Project\HostelManagment.API\HostelManagment.API\obj\Debug\HostelManagment.API.pdb
